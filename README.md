@@ -1,4 +1,4 @@
-# Going Denser with Open-Vocabulary Part Segmentation
+# Open-Vocabulary Object Detection and Part Segmentation
 
 ![](docs/boom.png)
 
@@ -19,3 +19,5 @@ See [Preparing Datasets](datasets) and [Preparing Models](models).
 
 See [Getting Started](GETTING_STARTED.md) for demo, training and inference.
 
+## Model Zoo
+We provide a large set of baseline results and trained models in the [Model Zoo](MODEL_ZOO.md).
